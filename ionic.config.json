@@ -1,0 +1,8 @@
+{
+  "name": "belfastsalah2",
+  "app_id": "3fd534ab",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
